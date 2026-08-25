@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile.gif" width="100%">
+  <img src="./assets/profile-01.gif" width="100%">
 </p>
 
 <h1 align="center">Hii, I'm <span style="color: #F25A4A">Aditya</span></h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3F424A&width=435&lines=Fullstack+Developer;Coding+Enthusiast;UI%2FUX+;Minecraft+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3F424A&width=435&lines=Fullstack+Developer;Coding+Enthusiast;UI%2FUX+;Minecraft+Development" alt="Typing SVG" />
 </p>
 
 ## Tech Stack
