@@ -2,7 +2,7 @@
   <img src="./assets/profile-01.gif" width="100%">
 </p>
 
-<h1 align="center">Hii, I'm <span style="color: #F25A4A">Aditya</span></h1>
+<h1 align="center">Hii, I'm <font color= "#F25A4A">Aditya</font></h1>
 
 <h3 align="center">Fullstack Developer</h3>
 
