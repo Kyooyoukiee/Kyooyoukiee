@@ -2,10 +2,12 @@
   <img src="./assets/profile-01.gif" width="100%">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=100&color=F93101&center=true&width=435&lines=Hii%2C+I'm+Aditya" alt="Typing SVG" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&duration=3000&pause=1000&color=FF6F01&center=true&vCenter=true&width=435&lines=Hii%2C+I'm+Aditya" alt="Typing SVG" />
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=100&color=8395B6&center=true&width=435&lines=%3E+Fullstack+Developer;%3E+Coding+Enthusiast;%3E+UI%2FUX;%3E+Minecraft+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D848&center=true&vCenter=true&width=435&lines=%3E+%F0%9F%92%BB+Fullstack+Developer;%3E+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Coding+Enthusiast;%3E+%F0%9F%8E%A8+UI%2FUX;%3E+%E2%9B%8F%EF%B8%8F+Minecraft+Development" alt="Typing SVG" />
 </p>
 
 ## Tech Stack
