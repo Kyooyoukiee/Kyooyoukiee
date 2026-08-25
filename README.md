@@ -2,17 +2,10 @@
   <img src="./assets/profile-01.gif" width="100%">
 </p>
 
-<h1 align="center">Hii, I'm <font color= "#F25A4A">Aditya</font></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=100&color=F93101&center=true&width=435&lines=Hii%2C+I'm+Aditya" alt="Typing SVG" /></a>
 
-<h3 align="center">Fullstack Developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=100&color=8395B6&center=true&width=435&lines=%3E+Fullstack+Developer;%3E+Coding+Enthusiast;%3E+UI%2FUX;%3E+Minecraft+Development" alt="Typing SVG" /></a>
 
-<p align="center">
-  ☕ Coding Enthusiast | 🎨 UI/UX | ⛏️ Minecraft Development
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3F424A&width=435&lines=Fullstack+Developer;Coding+Enthusiast;UI%2FUX+;Minecraft+Development" alt="Typing SVG" />
-</p>
 
 ## Tech Stack
 
