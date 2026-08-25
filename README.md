@@ -1,19 +1,17 @@
-# <img src="./assets/profile-banner.svg" alt="Aditya Brata Tan banner" width="100%" />
-
-<!-- <h1 align="center"></h1> -->
 <p align="center">
-  <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
+  <img src="./assets/profile.gif" width="100%">
+</p>
+
+<h1 align="center">Hii, I'm <span style="color: #F25A4A">Aditya</span></h1>
+
+<h3 align="center">Fullstack Developer</h3>
+
+<p align="center">
+  ☕ Coding Enthusiast | 🎨 UI/UX | ⛏️ Minecraft Development
 </p>
 
 <p align="center">
-  <a href="https://rzadaffa.netlify.app">Portfolio</a>
-  ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·
-  <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
-  ·
-  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3F424A&width=435&lines=Fullstack+Developer;Coding+Enthusiast;UI%2FUX+;Minecraft+Development" alt="Typing SVG" />
 </p>
 
 ## Tech Stack
@@ -69,22 +67,21 @@ Building SaaS products, full stack applications, and internal tools with a focus
 
 ## GitHub Statistics
 
-<p>
-  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhellokitty&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
   </picture>
 </p>
