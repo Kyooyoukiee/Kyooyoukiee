@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D848&center=true&vCenter=true&width=435&lines=%3E+%F0%9F%92%BB+Fullstack+Developer;%3E+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Coding+Enthusiast;%3E+%F0%9F%8E%A8+UI%2FUX;%3E+%E2%9B%8F%EF%B8%8F+Minecraft+Development" alt="Typing SVG" />
 </p>
 
-## Tech Stack
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-06121F?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
@@ -35,9 +35,11 @@
   <img src="https://img.shields.io/badge/Nginx-06121F?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
   <img src="https://img.shields.io/badge/Netlify-06121F?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Railway-06121F?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
+  <img src="https://img.shields.io/badge/BLOCKBENCH-06121F?style=for-the-badge&logo=blockbench&logoColor=%231E93D9
+  " alt="Blockbench" />
 </p>
 
-## Minecraft Development
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Minecraft+Development" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Server_Customization-06121F?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
