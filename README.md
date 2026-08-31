@@ -13,11 +13,13 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-06121F?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-06121F?style=for-the-badge&logo=html5&logoColor=23E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-06121F?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-06121F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-06121F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-06121F?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-06121F?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-06121F?style=for-the-badge&logo=Flutter&logoColor=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Vue.js-06121F?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt-06121F?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Pinia-06121F?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia" />
@@ -36,6 +38,7 @@
   <img src="https://img.shields.io/badge/Netlify-06121F?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Railway-06121F?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
   <img src="https://img.shields.io/badge/BLOCKBENCH-06121F?style=for-the-badge&logo=blockbench&logoColor=%231E93D9" alt="Blockbench" />
+  <img src="https://img.shields.io/badge/Vercel-06121F?style=for-the-badge&logo=vercel&logoColor=%#000000" alt="Blockbench" />
 </p>
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Minecraft+Development" alt="Typing SVG" /></a>
@@ -44,7 +47,7 @@
   <img src="https://img.shields.io/badge/Server_Customization-06121F?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
 </p>
 
-## Coming Soon
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Coming+Soon" alt="Typing SVG" /></a>
 
 
 
