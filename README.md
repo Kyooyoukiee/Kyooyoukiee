@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-01.gif" width="100%">
+  <img src="./assets/Pixel Art Gallery.gif" width="100%">
 </p>
 
 <p align="center">
@@ -20,16 +20,10 @@
   <img src="https://img.shields.io/badge/PHP-06121F?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-06121F?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-06121F?style=for-the-badge&logo=Flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Vue.js-06121F?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-06121F?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Pinia-06121F?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06121F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-06121F?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/draw.io-06121F?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="draw.io" />
   <img src="https://img.shields.io/badge/MySQL-06121F?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_API-06121F?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="REST API" />
-  <img src="https://img.shields.io/badge/Postman-06121F?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/k6-06121F?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6" />
   <img src="https://img.shields.io/badge/Git-06121F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-06121F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-06121F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
@@ -37,8 +31,8 @@
   <img src="https://img.shields.io/badge/Nginx-06121F?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
   <img src="https://img.shields.io/badge/Netlify-06121F?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Railway-06121F?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
-  <img src="https://img.shields.io/badge/BLOCKBENCH-06121F?style=for-the-badge&logo=blockbench&logoColor=%231E93D9" alt="Blockbench" />
-  <img src="https://img.shields.io/badge/Vercel-06121F?style=for-the-badge&logo=vercel&logoColor=%#000000" alt="Blockbench" />
+  <img src="https://img.shields.io/badge/Vercel-06121F?style=for-the-badge&logo=vercel&logoColor=%#000000" alt="Vercel" />  
+  <img src="https://img.shields.io/badge/Blockbench-06121F?style=for-the-badge&logo=blockbench&logoColor=%231E93D9" alt="Blockbench" />
 </p>
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Minecraft+Development" alt="Typing SVG" /></a>
