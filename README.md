@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Pixel Art Gallery.gif" width="90%">
+  <img src="./assets/Pixel Art Gallery.gif" width="100%">
 </p>
 
 <p align="center">
