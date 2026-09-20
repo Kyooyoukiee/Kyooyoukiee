@@ -2,13 +2,20 @@
   <img src="./assets/_.gif" width="100%">
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&duration=3000&pause=1000&color=FF6F01&center=true&vCenter=true&width=435&lines=Hii%2C+I'm+Aditya" alt="Typing SVG" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D848&center=true&vCenter=true&width=435&lines=%3E+%F0%9F%92%BB+Fullstack+Developer;%3E+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Coding+Enthusiast;%3E+%F0%9F%8E%A8+UI%2FUX;%3E+%E2%9B%8F%EF%B8%8F+Minecraft+Development" alt="Typing SVG" />
-</p>
+*Hello everybody, my name is Aditya. I'm a beginner programmer, currently learning and exploring the world of software development. Excited to build things and grow along the way!*
+
+</td>
+<td valign="top" width="50%">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Kyooyoukiee&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+</td>
+</tr>
+</table>
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
 
