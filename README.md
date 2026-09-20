@@ -17,7 +17,7 @@
 </tr>
 </table>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-06121F?style=for-the-badge&logo=html5&logoColor=23E34F26" alt="HTML5" />
@@ -42,12 +42,12 @@
   <img src="https://img.shields.io/badge/Blockbench-06121F?style=for-the-badge&logo=blockbench&logoColor=%231E93D9" alt="Blockbench" />
 </p>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Minecraft+Development" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Minecraft+Development" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Server_Customization-06121F?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
 </p>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Coming+Soon" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Coming+Soon" alt="Typing SVG" /></a>
 
 
