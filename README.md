@@ -47,6 +47,5 @@
 
 
 <picture>
-
   <img alt="my github pet" src="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/isocat.svg" width="100%">
 </picture>
