@@ -42,3 +42,12 @@
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Kyooyoukiee&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
 
 </div>
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/pet.svg" width="100%">
+</picture>
