@@ -4,6 +4,10 @@
 
 *Hello everybody, my name is Aditya. I'm a beginner programmer, currently learning and exploring the world of software development. Excited to build things and grow along the way!*
 
+<picture>
+  <img alt="my github pet" src="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/pet.svg" width="100%">
+</picture>
+
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
 
 <p align="center">
