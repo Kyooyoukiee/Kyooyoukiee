@@ -1,0 +1,18 @@
+name: My YourTomo cat
+on:
+  schedule:
+    - cron: ' */3 * * *'   # every 6h - pick your own minute
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Kyooyoukiee/YourTomo@main
+        with:
+          username: Kyooyoukiee       
+          timezone-offset-minutes: "420"
