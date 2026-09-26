@@ -4,10 +4,6 @@
 
 *Hello everybody, my name is Aditya. I'm a beginner programmer, currently learning and exploring the world of software development. Excited to build things and grow along the way!*
 
-<picture>
-  <img alt="my github pet" src="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/pet.svg" width="100%">
-</picture>
-
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Tech+Stack" alt="Typing SVG" /></a>
 
 <p align="center">
@@ -46,6 +42,3 @@
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Kyooyoukiee&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
 </div>
 
-<picture>
-  <img alt="my github pet" src="https://raw.githubusercontent.com/Kyooyoukiee/Kyooyoukiee/main/dist/isocat.svg" width="100%">
-</picture>
