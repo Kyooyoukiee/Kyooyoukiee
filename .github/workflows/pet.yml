@@ -1,7 +1,7 @@
 name: My YourTomo cat
 on:
   schedule:
-    - cron: ' */3 * * *'   # every 6h - pick your own minute
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
