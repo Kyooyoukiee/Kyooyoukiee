@@ -37,6 +37,6 @@
   <img src="https://img.shields.io/badge/Server_Customization-06121F?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
 </p>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF6F01&vCenter=true&width=435&lines=%3E+Coming+Soon" alt="Typing SVG" /></a>
+#
 
 <img src="./dist/isocat.svg" width="100%">
